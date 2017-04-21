@@ -1,0 +1,28 @@
+{
+  "name": "private-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "ndev-framework": "^0.0.16",
+    "watch-log": "^0.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibertyFramework/PrivateApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibertyFramework/PrivateApplication/issues"
+  },
+  "homepage": "https://github.com/LibertyFramework/PrivateApplication#readme"
+}

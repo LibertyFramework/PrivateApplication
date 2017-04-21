@@ -1,0 +1,2 @@
+[Sat Feb 18 20:23:39.606844 2017] [:error] [pid 8] [client 10.77.77.1:44904] PHP Fatal error:  Uncaught Error: Class 'App\\MainPrivateApplication' not found in /var/www/webservice/public/index.php:11\nStack trace:\n#0 {main}\n  thrown in /var/www/webservice/public/index.php on line 11
+[Sat Feb 18 20:32:02.596886 2017] [:error] [pid 10] [client 10.77.77.1:44944] PHP Fatal error:  Uncaught Error: Class 'App\\PrivateApplication' not found in /var/www/webservice/public/index.php:11\nStack trace:\n#0 {main}\n  thrown in /var/www/webservice/public/index.php on line 11

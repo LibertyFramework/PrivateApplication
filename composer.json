@@ -1,0 +1,14 @@
+{
+    "require": {
+        "javanile/liberty": "^0.4.0",
+        "javanile/yaml": "^0.0.2",
+        "phpunit/phpunit": "^6.0",
+        "javanile/urlman": "^0.0.4",
+        "javanile/producer": "^0.0.17",
+        "javanile/schemadb": "^0.4.0",
+        "javanile/moldable": "^0.0.1",
+        "codeclimate/php-test-reporter": "^0.4.4"
+    },
+    "require-dev": {
+    }
+}

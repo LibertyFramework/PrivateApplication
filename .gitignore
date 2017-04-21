@@ -1,3 +1,5 @@
 .idea
 docker
 docker-compose.yml
+repository
+vendor
